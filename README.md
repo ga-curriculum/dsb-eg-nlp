@@ -23,7 +23,7 @@ tktk
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 | [Full Lesson Deck](https://docs.google.com/presentation/d/1r1KERmYcOuDbcX6-mld0kAba87P5uQaWIk8vwmuO8Z4/edit?usp=sharing) | 120 | To be used for the full session, includes the labs below  |
-|  [text-frequency.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/nlp-foundations.ipynb) | tktk | First code-a-long and mini-lab  |
+|  [text-frequency.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/text-frequency.ipynb)) | tktk | First code-a-long and mini-lab  |
 |  [embeddings.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/embeddings.ipynb) | tktk | Second code-a-long |
  -- 
 | **Total content**     | 120 |    |
