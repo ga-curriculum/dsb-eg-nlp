@@ -3,10 +3,11 @@
 **Learning Objective:** 
 
 - Define common use cases for text data
-- Describe the evolution of text representation from traditional methods to transformers
-- Define embeddings architectures with use cases for static vs contextual embeddings
-- Apply embeddings to sentiment analysis 
-- Evaluate which methods and model(s) may be a fit for NLP Scenario 1
+- Describe the evolution of text representation from traditional methods to embeddings 
+- Apply CountVectorizer, TF-IDF to complete a sentiment analysis of customer reviews
+- Compare two embedding methods, Word2Vec and BERT, using customer reviews
+- Discuss real-world considerations for embedding selection 
+
 
 
 **Format:** Github and deck   
@@ -23,8 +24,8 @@ tktk
 | Micro-Lesson|  Time |  About |
 | ------ |:----------:| ------ |
 | [Full Lesson Deck](https://docs.google.com/presentation/d/1r1KERmYcOuDbcX6-mld0kAba87P5uQaWIk8vwmuO8Z4/edit?usp=sharing) | 120 | To be used for the full session, includes the labs below  |
-|  [text-frequency.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/text-frequency.ipynb) | tktk | First code-a-long and mini-lab  |
-|  [embeddings.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/embeddings.ipynb) | tktk | Second code-a-long |
+|  [text-frequency.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/text-frequency.ipynb) | 35 | First code-a-long and mini-lab  |
+|  [embeddings.ipynb](https://git.generalassemb.ly/Modularisation-DSB-sandbox/NLP-Foundations/blob/master/embeddings.ipynb) | 35 | Second code-a-long |
  -- 
 | **Total content**     | 120 |    |
 
