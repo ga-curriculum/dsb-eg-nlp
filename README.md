@@ -3,10 +3,11 @@
 **Learning Objective:** 
 
 - Define common use cases for text data
-- Describe the evolution of text representation from traditional methods to transformers
-- Define embeddings architectures with use cases for static vs contextual embeddings
-- Apply embeddings to sentiment analysis 
-- Evaluate which methods and model(s) may be a fit for NLP Scenario 1
+- Describe the evolution of text representation from traditional methods to embeddings 
+- Apply CountVectorizer, TF-IDF to complete a sentiment analysis of customer reviews
+- Compare two embedding methods, Word2Vec and BERT, using customer reviews
+- Discuss real-world considerations for embedding selection 
+
 
 
 **Format:** Github and deck   
