@@ -15,7 +15,9 @@
 **About:** Natural Language Processing (NLP) is the field of computer science and artificial intelligence that uses principles of statistics and probability to translate human language into a form that computers can use and apply to solve problems. 
 
 **Prerequisites:** 
-tktk
+- Python 
+- Core data science libraries Numpy and Pandas 
+- Understand, run, and evaluate classification metrics in Scikit Learn 
 
 
 
