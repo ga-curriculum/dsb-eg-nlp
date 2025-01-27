@@ -29,7 +29,7 @@ Natural Language Processing (NLP) is the field of computer science and artificia
 - Write and run Python code in a Jupyter notebook.
 - Create basic Python functions.
 - Import and use `pandas` and `numpy`.
-- Understand, run, and evaluate classification metrics in scikit-learn.
+- Understand, run, and evaluate classification models and metrics in scikit-learn.
 
 ## References
 
