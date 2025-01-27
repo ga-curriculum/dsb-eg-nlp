@@ -1,6 +1,6 @@
 ## ![[NLP and LLMs ] Foundations of NLP- ](./assets/hero.png)
 
-**Learning Objective:** 
+**Learning Objectives:** 
 
 - Define common use cases for text data
 - Describe the evolution of text representation from traditional methods to embeddings 
