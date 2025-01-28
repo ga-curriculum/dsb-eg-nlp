@@ -1,7 +1,7 @@
 ## ![[NLP and LLMs ] Foundations of NLP- ](./assets/hero.png)
 
 ## About
-Natural Language Processing (NLP) is the field of computer science and artificial intelligence that uses principles of statistics and probability to translate human language into a form that computers can use and apply to solve problems.
+NLP foundations introduces various ways to represent text numerically including word vectors and text embeddings. 
 
 ## Learning Objectives
 
